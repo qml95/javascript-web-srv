@@ -1,0 +1,17 @@
+[
+    {
+        "nom": "La Nuit étoilée",
+        "annee" : "1889",
+        "auteur": "Vincent Van Gogh"
+    },
+    {
+        "nom": "Le Cri",
+        "annee": "1893",
+        "auteur": "Edvard Munch"
+    },
+    {
+        "nom": "Guernica",
+        "annee": "1937",
+        "auteur": "Pablo Picasso"
+    }
+]
